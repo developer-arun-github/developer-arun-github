@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arun
+# 👋 Hi, I’m Arun
 
 <!---
 developer-arun-github/developer-arun-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
